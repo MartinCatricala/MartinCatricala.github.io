@@ -1,0 +1,89 @@
+.algunostemas{
+    margin-bottom: 0px;
+    h2{
+        font-family: 'IBM Plex Sans', sans-serif;
+        font-size: 48px;
+        color: #060A24;
+        letter-spacing: 0;
+        margin-left: 14%;
+    }
+}
+
+.contenedoralgunostemas{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 12%;
+    margin-right: 12%;
+    margin-bottom: 0px;
+   
+    
+
+
+    .trabajoremoto{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-bottom: 0px;
+        h5{
+            width: 220px;
+            margin-top: 10px;
+            font-family: 'IBM PlexSans-SemiBold', sans-serif;
+            font-size: 24px;
+            color: #060A24;
+            letter-spacing: 0;
+            text-align: center;
+        }
+        
+    }
+
+    .repensando{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-bottom: 0px;
+        h5{
+            width: 220px;
+            margin: 10px;
+            font-family: 'IBM PlexSans-SemiBold', sans-serif;
+            font-size: 24px;
+            color: #060A24;
+            letter-spacing: 0;
+            text-align: center;
+        }
+    }
+
+    .bases{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-bottom: 0px;
+        h5{
+            width: 220px;
+            margin: 10px;
+            font-family: 'IBM PlexSans-SemiBold', sans-serif;
+            font-size: 24px;
+            color: #060A24;
+            letter-spacing: 0;
+            text-align: center;
+        }
+    }
+
+    .seguridad{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-bottom: 0px;
+        h5{
+            width: 220px;
+            margin: 10px;
+            font-family: 'IBM PlexSans-SemiBold', sans-serif;
+            font-size: 24px;
+            color: #060A24;
+            letter-spacing: 0;
+            text-align: center;
+        }
+    }
+
+
+}

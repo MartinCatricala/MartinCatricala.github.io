@@ -1,0 +1,52 @@
+.contenedorlanding{
+    display: block;
+            
+    h1{
+        font-size: 4rem;
+        font-family: 'IBM Plex Sans', sans-serif;
+        color: #060A24;
+        line-height: 42px;
+        font-weight: lighter;
+        padding-top: 5%;
+        margin-left: 14%;
+        
+      
+    }
+    .world{
+        text-decoration: line-through;
+    }
+    .dot{
+        color: blue;
+    }
+    h5{
+        width: 628px;
+        height: 48px;
+        font-family: 'IBM Plex Mono', sans-serif;
+        color: #060A24;
+        letter-spacing: 0;
+        line-height: 22px;
+        margin-top: 2%;
+        margin-left: 14%;
+    }
+
+    .btn{
+        background: #00F3BB;
+        width: 15vw;
+        height: 5vh;
+        font-family: 'IBM Plex Mono', monospace;
+        font-size: 18px;
+        font-weight: bold;
+        color: #060A24;
+        letter-spacing: 0;
+        text-align: center;
+        line-height: 24px;
+        margin-top: 3%;
+        margin-left: 14%;
+    }
+    
+    .btn:hover{
+        background: linear-gradient(to right, #00F0B8, #0000FE );
+        color: white;
+    }
+    
+}
