@@ -51,6 +51,7 @@ header nav .menu ul li:hover {
 }
 
 header nav .menu ul li a {
+  font-family: 'IBM Plex Mono', sans-serif;
   position: relative;
   text-decoration: none;
   color: #FFFFFF;
@@ -789,8 +790,7 @@ section article {
     display: grid;
     -ms-grid-columns: 33% 33% 33%;
         grid-template-columns: 33% 33% 33%;
-    -ms-grid-rows: 364px 364px;
-        grid-template-rows: 364px 364px;
+    /* grid-template-rows: 364px 364px; */
         grid-template-areas: "img1 img2 img3" "img4 img5 img6";
     -webkit-box-align: center;
         -ms-flex-align: center;
@@ -805,42 +805,42 @@ section article {
     -ms-grid-column: 3;
     grid-area: img6;
     width: 100%;
-    height: 364px;
+    /* height: 364px; */
   }
   .contenedorimagenesentrevistas .imgentrevistas2 {
     -ms-grid-row: 1;
     -ms-grid-column: 3;
     grid-area: img3;
     width: 100%;
-    height: 364px;
+    /* height: 364px; */
   }
   .contenedorimagenesentrevistas .imgentrevistas3 {
     -ms-grid-row: 1;
     -ms-grid-column: 2;
     grid-area: img2;
     width: 100%;
-    height: 364px;
+    /* height: 364px; */
   }
   .contenedorimagenesentrevistas .imgentrevistas4 {
     -ms-grid-row: 1;
     -ms-grid-column: 1;
     grid-area: img1;
     width: 100%;
-    height: 364px;
+    /* height: 364px; */
   }
   .contenedorimagenesentrevistas .imgentrevistas5 {
     -ms-grid-row: 2;
     -ms-grid-column: 2;
     grid-area: img5;
     width: 100%;
-    height: 364px;
+    /* height: 364px; */
   }
   .contenedorimagenesentrevistas .imgentrevistas6 {
     -ms-grid-row: 2;
     -ms-grid-column: 1;
     grid-area: img4;
     width: 100%;
-    height: 364px;
+    /* height: 364px; */
   }
   .algunostemas {
     margin-bottom: 0px;
